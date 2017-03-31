@@ -13,8 +13,8 @@
    height="192"
    id="svg3302"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="New document 2">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="nilpass-logo.svg">
   <defs
      id="defs3304" />
   <sodipodi:namedview
@@ -44,8 +44,10 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       spacingx="12px"
-       spacingy="12px" />
+       spacingx="12"
+       spacingy="12"
+       originx="0"
+       originy="0" />
     <inkscape:grid
        type="xygrid"
        id="grid4086"
@@ -53,9 +55,11 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       spacingx="6px"
-       spacingy="6px"
-       dotted="true" />
+       spacingx="6"
+       spacingy="6"
+       dotted="true"
+       originx="0"
+       originy="0" />
     <inkscape:grid
        type="xygrid"
        id="grid4102"
@@ -63,12 +67,14 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       spacingx="192px"
-       spacingy="192px"
+       spacingx="192"
+       spacingy="192"
        color="#000000"
        opacity="1"
        empcolor="#000000"
-       empopacity="1" />
+       empopacity="1"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <metadata
      id="metadata3307">
@@ -78,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
